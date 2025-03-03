@@ -1,4 +1,5 @@
 **Overview**
+
 In this project, we build fundamental logic gates using only the NAND gate. These gates form the building blocks of all digital circuits and serve as the foundation for the computer we will design in later projects.
 
 **Gates Implemented**
