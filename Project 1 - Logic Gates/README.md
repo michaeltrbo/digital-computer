@@ -19,6 +19,7 @@ In this project, we build fundamental logic gates using only the NAND gate. Thes
 This project sets the stage for building arithmetic circuits, memory, and a full computer in later stages of the course.
 
 **Files Structure**
+~~~
 project1/
 │
 ├── And.hdl            # And gate implementation
@@ -36,6 +37,8 @@ project1/
 ├── Or16.hdl           # 16-bit Or
 ├── Or8Way.hdl         # 8-way Or
 └── Xor.hdl            # Xor gate
+~~~
 
 **Logic Gate Derivation**
+
 ![image](https://github.com/user-attachments/assets/aa78db76-2c29-4e65-82b5-86685ec3115a)
